@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Erin Martin"
-  avatar           : "2x3 Erin Martin.jpg"
-  bio              : "PhD Candidate in Neuroscience at the Medical University of South Carolina"
+  name             : # Something goes in quotes here
+  avatar           : "smolhead.jpg"
+  bio              : "Neuroscience PhD Candidate at the Medical University of South Carolina"
   location         : "Charleston, SC"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Erin+L+Martin"
