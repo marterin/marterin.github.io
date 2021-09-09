@@ -10,4 +10,6 @@ redirect_from:
 <a href="/files/2021-09-09 CV.pdf" class="image fit">Curriculum Vitae 09-09-2021</a>
 
 
-marterin.github.io/files/2021-09-09 CV.pdf
+<embed src="http://marterin.github.io/files/2021-09-09 CV.pdf" width="500" height="375" 
+ type="application/pdf">
+
