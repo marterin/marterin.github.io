@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae (09-09-2021)"
+title: "Curriculum Vitae (updated 09-09-2021)"
 permalink: /cv/
 author_profile: true
 redirect_from:
