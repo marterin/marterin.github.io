@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-"2021-09-09 CV"
+<a href="/files/2021-09-09 CV.pdf" class="image fit">CV</a>
