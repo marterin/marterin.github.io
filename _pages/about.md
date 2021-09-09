@@ -14,5 +14,4 @@ My <a href="https://marterin.github.io/research">research</a> uses a human labor
 
 Beyond basic treatment efficacy, a key focus of my work is translatability: from animal models to the human laboratory, from the human laboratory to clinical trials, and bidirectionally across sexes. A primary goal in my doctoral training has therefore been to develop both the technical and study design skills that would enable me to best realize this focus, and I'm looking to continue this training as a postdoctoral researcher.
 
-Are you interested in translational addiction research?
-Contact me! marterin@musc.edu
+Are you interested in translational addiction research? <a href="mailto:marterin@musc.edu">Contact me.</a>
