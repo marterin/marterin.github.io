@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-(http://marterin.github.io/files/2021-09-09 CV.pdf)
+"2021-09-09 CV"
