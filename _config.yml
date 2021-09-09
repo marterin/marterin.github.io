@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Erin L. Martin"
 title_separator          : "-"
-name                     : &name "Erin Martin"
+name                     : &name "Erin L. Martin"
 description              : &description "PhD Candidate"
 url                      : https://marterin.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Erin Martin"
+  name             : "Erin L. Martin"
   avatar           : "smolhead.png"
   bio              : "PhD Candidate, Neuroscience"
   location         : "Charleston, SC"
