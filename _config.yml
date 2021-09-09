@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Erin Martin"
-  avatar           : # Apparently you can put a picture here
+  avatar           : "smolhead.png"
   bio              : "Neuroscience PhD Candidate at the Medical University of South Carolina"
   location         : "Charleston, SC"
   employer         :
