@@ -8,4 +8,5 @@ paperurl: 'http://marterin.github.io/files/Martin & McRae-Clark (2020).pdf'
 citation: '<b>Martin EL</b> &amp; McRae-Clark AL. Evidence for the endocannabinoid system as a therapeutic target in the treatment of cannabis use disorder. <i>Current Addiction Reports</i>. (2020).'
 ---
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 <a href="http://marterin.github.io/files/Martin & McRae-Clark (2020).pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
