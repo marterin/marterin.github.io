@@ -1,7 +1,7 @@
 ---
 title: "Evidence for the endocannabinoid system as a therapeutic target in the treatment of cannabis use disorder"
 collection: publications
-permalink: /publication/2020-ecs-cud-review
+permalink: /publications/2020-ecs-cud-review
 excerpt: 'This article describes the components of the endocannabinoid system, signaling mechanisms, and pharmacotherapy that have targeted the endocannabinoid system through 2020.'
 date: 2020
 venue: 'Current Addiction Reports'
