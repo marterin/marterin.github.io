@@ -7,4 +7,3 @@ venue: 'Journal of Psychopharmacology'
 paperurl: 'http://marterin.github.io/files/Spindle et al. (2021).pdf'
 citation: 'Spindle TR, <b>Martin EL</b>, Grabenauer M, Woodward T, Milburn M, &amp; Vandrey R. Assessment of cognitive and psychomotor impairment, subjective effects, and blood THC concentrations following acute administration of oral and vaporized cannabis. <i>Journal of Psychopharmacology</i>. (2020).'
 ---
-Recommended citation: Spindle TR, <b>Martin EL</b>, Grabenauer M, Woodward T, Milburn M, & Vandrey R. Assessment of cognitive and psychomotor impairment, subjective effects, and blood THC concentrations following acute administration of oral and vaporized cannabis. <i>Journal of Psychopharmacology</i>. (2020).
