@@ -51,12 +51,12 @@
     {% endif %}
     
     {% if post.citation and post.paperurl %}
-      <p>Recommended citation: {{ post.citation }} <a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+      <p>{{ post.citation }} <a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
       {% endif %}
       {% if post.paperurl %}
         <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></p>
     {% elsif post.citation %}
-      <p>Recommended citation: {{ post.citation }} </p>
+      <p>{{ post.citation }} </p>
     {% elsif post.paperurl %}
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% endif %}
