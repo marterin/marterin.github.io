@@ -12,6 +12,6 @@ I'm a 3rd year doctoral candidate in neuroscience at the Medical University of S
 
 My <a href="https://marterin.github.io/research">research</a> uses a human laboratory paradigm to inform pharmacotherapeutic development for the treatment of addictive disorders, predominantly cannabis use disorder. To conduct this work, I use a combination of methods including human behavior, pharmacology, psychophysiology, and ecological momentary assessment.
 
-Beyond basic treatment efficacy, a key focus of my work is translatability: from animal models to the human laboratory, from the human laboratory to clinical trials, and bidirectionally across sexes. A primary goal in my doctoral training has therefore been to develop both the technical and study design skills that would enable me to best realize this focus, and I'm looking to continue this training as a postdoctoral researcher.
+Beyond basic treatment efficacy, a key focus of my work is translatability: from animal models to the human laboratory, from the human laboratory to clinical trials, and bidirectionally across sexes. A primary goal in my doctoral training has therefore been to develop skills that would enable me to best realize this focus, and I'm looking to continue this training as a postdoctoral researcher.
 
 Are you interested in translational addiction research? <a href="mailto:marterin@musc.edu">Contact me.</a>
