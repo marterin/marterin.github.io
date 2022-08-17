@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a 3rd year doctoral candidate in neuroscience at the Medical University of South Carolina (MUSC), where I'm advised by Dr. <a href="https://scholar.google.com/citations?user=lazcLG0AAAAJ&hl=en">Aimee McRae-Clark</a>.
+I'm a 4th year doctoral candidate in neuroscience at the Medical University of South Carolina (MUSC), where I'm advised by Dr. <a href="https://scholar.google.com/citations?user=lazcLG0AAAAJ&hl=en">Aimee McRae-Clark</a>.
 
 My <a href="https://marterin.github.io/research">research</a> uses a human laboratory paradigm to inform pharmacotherapeutic development for addictive disorders, predominantly cannabis use disorder. To conduct this work, I use a combination of methods including human behavior, pharmacology, psychophysiology, and ecological momentary assessment.
 
