@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Curriculum Vitae (updated 2023-05-22)"
+title: "Curriculum Vitae (updated 2023-08-18)"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-<embed src="/files/2023-05-22 CV.pdf" width="500" height="375" 
+<embed src="/files/2023-08-18 CV.pdf" width="500" height="375" 
  type="application/pdf">
 
