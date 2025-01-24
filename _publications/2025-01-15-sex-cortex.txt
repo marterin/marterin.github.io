@@ -1,0 +1,9 @@
+---
+title: "Sex differences in normative modeling of cortical thickness in cannabis use disorder"
+collection: publications
+permalink: /publication/2025-01-15-sex-cortex
+date: 2025-01-15
+venue: 'Drug and Alcohol Dependence Reports'
+link: 'https://doi.org/10.1016/j.dadr.2025.100318'
+citation: '<b>Martin EL</b>, Campbell LM, Thorn K, Sahlem GL, McRae-Clark AL, & Benitez A. Sex differences in normative modeling of cortical thickness in cannabis use disorder. <i>Drug and Alcohol Dependence Reports.</i> (2025).'
+---
