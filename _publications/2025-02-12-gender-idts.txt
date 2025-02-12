@@ -1,0 +1,9 @@
+---
+title: "Gender differences in circumstances associated with cannabis use"
+collection: publications
+permalink: /publication/2025-02-12-gender-idts
+date: 2025-02-12
+venue: 'The American Journal on Addictions'
+link: 'https://doi.org/10.1111/ajad.70000'
+citation: '<b>Martin EL</b>, Baker NL, Ramakrishnan V, Neelon B, Saladin ME, & McRae-Clark AL. Gender differences in circumstances associated with cannabis use. <i>The American Journal on Addictions.</i> (2025).'
+---
