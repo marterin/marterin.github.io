@@ -5,6 +5,13 @@ permalink: /research/
 author_profile: true
 ---
 
+<b>Sex Differences in the Genetics of Cannabinoid Metabolism<b>
+
+The aim of this study is to examine sex differences in the genetics of exogenous and endogenous cannabinoid metabolism in people that use cannabis heavily. Sex differences are evident in the acute subjective effects of THC, in that females experience greater drug effects even after the development of tolerance, and these subjective effects have been associated with differential prevalence of THC metabolites in blood; associations with peripheral endocannabinoids remain underexplored. We hypothesize that genetic variation in cannabinoid metabolic enzymes may explain sex differences in the subjective effects of THC.
+
+<i>Funding: College on Problems of Drug Dependence</i>
+
+
 <b>Evaluating Contributors to Relapse in Comorbid Major Depressive Disorder and Cannabis Use Disorder<b>
 
 Cannabis Use Disorder is a highly prevalent public health concern with limited treatment options, and the
