@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a postdoctoral fellow in neuroscience at the Medical University of South Carolina (MUSC), where I'm advised by Dr. <a href="https://scholar.google.com/citations?user=lazcLG0AAAAJ&hl=en">Aimee McRae-Clark</a>.
-
-My <a href="https://marterin.github.io/research">research</a> uses a human laboratory paradigm to inform pharmacotherapeutic development for addictive disorders, primarily cannabis use disorder. To conduct this work, I use a combination of methods including human behavior, pharmacology, psychophysiology, and ecological momentary assessment.
+I'm a research assistant professor in Psychiatry at the Medical University of South Carolina (MUSC). My <a href="https://marterin.github.io/research">research</a> uses a human laboratory paradigm to inform pharmacotherapeutic development for addictive disorders, primarily cannabis use disorder. To conduct this work, I use a combination of methods including pharmacology, psychophysiology, neuroimaging, and ecological momentary assessment.
 
 A key focus of my work is translatability: from animal models to the human laboratory, from the human laboratory to clinical trials, and bidirectionally across sexes. A primary goal in my training has been to develop skills that would enable me to best realize this focus.
 
