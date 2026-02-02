@@ -5,6 +5,13 @@ permalink: /research/
 author_profile: true
 ---
 
+<b>Sex Differences in Neurobehavioral Response to Acute THC in Adults with Cannabis Use Disorder (SCAN)<b>
+
+This study will synthesize pharmacological, behavioral, and multimodal neuroimaging approaches to investigate sex differences in reward processing in adults with CUD. Forty (n=20/sex) adults with CUD will complete two counterbalanced acute dosing sessions (oral THC 40 mg or placebo) in the human laboratory. Sessions will include repeated subjective measures of drug reward and multimodal neuroimaging (MRS, fMRI) to assess striatal response to THC and monetary reward. This research will elucidate the contribution of striatal function to sex differences in reward processing among individuals with CUD, providing critical insights into neurobiological risk factors for the development and maintenance of CUD that can be leveraged in the development of personalized therapeutics.
+
+<i>Funding: NIH/NIDA K12-DA031794</i>
+
+
 <b>Sex Differences in the Genetics of Cannabinoid Metabolism<b>
 
 The aim of this study is to examine sex differences in the genetics of exogenous and endogenous cannabinoid metabolism in people that use cannabis heavily. Sex differences are evident in the acute subjective effects of THC, in that females experience greater drug effects even after the development of tolerance, and these subjective effects have been associated with differential prevalence of THC metabolites in blood; associations with peripheral endocannabinoids remain underexplored. We hypothesize that genetic variation in cannabinoid metabolic enzymes may explain sex differences in the subjective effects of THC.
