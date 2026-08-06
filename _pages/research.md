@@ -5,6 +5,13 @@ permalink: /research/
 author_profile: true
 ---
 
+<b>The contribution of the endocannabinoid system to sex differences in THC-associated reward</b>
+
+Women experience greater rewarding effects from cannabis than men, potentially due to sex differences in the endocannabinoid system. The proposed project will examine central endocannabinoid system function in adults with cannabis use disorder using a multi-modal approach in order to determine its contribution to sex differences in cannabis-associated reward. Results from this project will uncover potential risk factors for cannabis use disorder and can be applied to the development of novel therapeutics for substance use disorders.
+
+<i>Funding: NIH/NIDA K01-DA065775</i>
+
+
 <b>Sex Differences in Neurobehavioral Response to Acute THC in Adults with Cannabis Use Disorder (SCAN)<b>
 
 This study will synthesize pharmacological, behavioral, and multimodal neuroimaging approaches to investigate sex differences in reward processing in adults with CUD. Forty (n=20/sex) adults with CUD will complete two counterbalanced acute dosing sessions (oral THC 40 mg or placebo) in the human laboratory. Sessions will include repeated subjective measures of drug reward and multimodal neuroimaging (MRS, fMRI) to assess striatal response to THC and monetary reward. This research will elucidate the contribution of striatal function to sex differences in reward processing among individuals with CUD, providing critical insights into neurobiological risk factors for the development and maintenance of CUD that can be leveraged in the development of personalized therapeutics.

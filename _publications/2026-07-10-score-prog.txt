@@ -1,0 +1,9 @@
+---
+title: "Sex differences in stress responding in a randomized, placebo-controlled clinical trial of progesterone in cannabis use disorder"
+collection: publications
+permalink: /publication/2026-07-10-score-prog
+date: 2026-07-10
+venue: 'Psychopharmacology'
+link: 'https://doi.org/10.1007/s00213-026-07128-2'
+citation: '<b>Martin EL</b>, Baker NL, Neelon B, Saladin ME, Gray KM, Watson Z, & McRae-Clark AL. Sex differences in stress responding in a randomized, placebo-controlled clinical trial of progesterone in cannabis use disorder. <i>Psychopharmacology.</i> (2026).'
+---

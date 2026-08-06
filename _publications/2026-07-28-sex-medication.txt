@@ -1,0 +1,9 @@
+---
+title: "Sex differences in cannabis use disorder study outcomes: an aggregated secondary analysis of medication trials"
+collection: publications
+permalink: /publication/2026-07-28-sex-medication
+date: 2026-07-28
+venue: 'Drug and Alcohol Dependence'
+link: 'https://doi.org/10.1016/j.drugalcdep.2026.113285'
+citation: 'McRae-Clark AL, <b>Martin EL</b>, Baker NL, Neelon B, McClure EA, Tomko RL, Gray KM, & Gex KS. Sex differences in cannabis use disorder study outcomes: an aggregated secondary analysis of medication trials. <i>Drug and Alcohol Dependence.</i> (2026).'
+---
