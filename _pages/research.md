@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-<b>The contribution of the endocannabinoid system to sex differences in THC-associated reward</b>
+<b>The Contribution of the Endocannabinoid System to Sex Differences in THC-Associated Reward (STAR)</b>
 
 Women experience greater rewarding effects from cannabis than men, potentially due to sex differences in the endocannabinoid system. The proposed project will examine central endocannabinoid system function in adults with cannabis use disorder using a multi-modal approach in order to determine its contribution to sex differences in cannabis-associated reward. Results from this project will uncover potential risk factors for cannabis use disorder and can be applied to the development of novel therapeutics for substance use disorders.
 
